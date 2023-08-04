@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "abstract-white-polygon-artistic-geometric-with-gold-line-background-vector.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "abstract-white-polygon-artistic-geometric-with-gold-line-background-vector 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "abstract-white-polygon-artistic-geometric-with-gold-line-background-vector 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
